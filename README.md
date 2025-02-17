@@ -1,2 +1,2 @@
-# myfirstpro
-first project
+# About my first project on Github
+example 
